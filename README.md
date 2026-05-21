@@ -35,9 +35,9 @@ Evaluate the trained model on test data using accuracy, confusion matrix, and cl
 
 ## PROGRAM
 
-### Name: Bhuvaneshwaran H
+### Name: SANJAY V
 
-### Register Number: 212223240018
+### Register Number: 212223230188
 
 ```python
 # Define Neural Network(Model1)
