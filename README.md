@@ -35,9 +35,9 @@ Evaluate the trained model on test data using accuracy, confusion matrix, and cl
 
 ## PROGRAM
 
-### Name: Sanjay V
+### Name: Bhuvaneshwaran H
 
-### Register Number: 212223230188
+### Register Number: 212223240018
 
 ```python
 # Define Neural Network(Model1)
@@ -72,23 +72,23 @@ train_model(model, train_loader, criterion, optimizer, epochs=100)
 ```
 
 ### Dataset Information
-<img width="1249" height="381" alt="image" src="https://github.com/user-attachments/assets/22de69f1-c44a-40fb-ac4c-1481de1f28f7" />
+<img width="823" height="157" alt="image" src="https://github.com/user-attachments/assets/323bd2ea-372a-48b4-85fd-dcaab440f4ad" />
 
 
 ### OUTPUT
 
 ## Confusion Matrix
+<img width="458" height="385" alt="image" src="https://github.com/user-attachments/assets/00fb697d-b186-4d33-9e7b-126df234350b" />
 
-<img width="539" height="455" alt="image" src="https://github.com/user-attachments/assets/3dd05f7f-6fcb-4d51-ab73-81343cfa7234" />
 
 
 
 ## Classification Report
-<img width="584" height="430" alt="image" src="https://github.com/user-attachments/assets/fe4cf9e9-35eb-4d1b-8982-ca668bd0e738" />
+<img width="377" height="287" alt="image" src="https://github.com/user-attachments/assets/56f8e6c9-0b55-4bec-a4d6-3ba722d42e0d" />
 
 
 ### New Sample Data Prediction
-<img width="362" height="106" alt="image" src="https://github.com/user-attachments/assets/21b2f8d4-0550-4503-b487-49f2f37ea7c5" />
+<img width="252" height="62" alt="image" src="https://github.com/user-attachments/assets/167fcc28-4fdc-4a65-9143-3dd1e6f780fc" />
 
 
 ## RESULT
